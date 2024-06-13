@@ -1,0 +1,477 @@
+.container{
+    background-color: grey;
+    height: 300px;
+    width: 95%;
+}
+
+
+img{
+    height: 32px;
+    width: 40px;
+    border-radius: 5px;
+}
+h1{
+    font-size: 10px;
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+}
+.para{
+    font-size: 7px;
+    color:grey;
+    position: relative;
+    left: 53px;
+    bottom: 42px;
+}
+.card1{
+    background-color:white;
+    height: 40px;
+    margin-left: 20px;
+  
+}
+.hd2{
+    font-size: 12px;
+    position: relative;
+    bottom: 350px;
+}
+.hd1{
+    font-size: 12px;
+    position: relative;
+    bottom: 30px;
+}
+.hd3{
+    font-size: 12px;
+    position: relative;
+    bottom: 370px;
+}
+.card2{
+    height: 36px;
+    margin-top: 20px;
+    background-color: aqua;
+    position: relative;
+    bottom: 50px;
+    left:2px;
+    width:60%;
+}
+.p1{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on1{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+
+.card3{
+    width:60%;
+    margin-top: 20px;
+    height: 36px;
+    background-color:aqua;
+    position: relative;
+    bottom: 50px;
+    left:2px;
+    
+}
+.p2{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on2{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+
+
+.card4{
+    width:60%;
+    margin-top: 20px;
+    height: 36px;
+    background-color:aqua;
+    position: relative;
+    bottom: 50px;
+    left:2px;
+    
+}
+.p3{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on3{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+.card5{
+    height: 36px;
+    margin-top: 40px;
+    background-color: aqua;
+    position: relative;
+    bottom: 384px;
+    left:2px;
+    width:60%;
+}
+.p4{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on4{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+.card6{
+    height: 36px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    position: relative;
+    bottom: 386px;
+    left:2px;
+    width:60%;
+}
+.p5{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on5{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+.card7{
+    height: 36px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    position: relative;
+    bottom: 387px;
+    left:2px;
+    width:60%;
+}
+.p6{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on6{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+.card8{
+    height: 36px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    position: relative;
+    bottom: 387px;
+    left:2px;
+    width:60%;
+}
+.p7{
+    font-size: 10px;
+    color: red;
+    position:relative;
+   left:40px;
+    bottom: 17px;
+    
+}
+.on7{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+h2{
+    position: relative;
+    bottom: 60px;
+    left:500px;
+    color: grey;
+    border-radius: 50%;
+}
+
+.block1{
+    background-color: cornflowerblue;
+    width:40%;
+    height:80px;
+    position: relative;
+    bottom: 257px;
+    left:590px;
+}
+
+
+
+.subhd1{
+    font-weight: bold;
+   font-size: 12px;
+    color:black;
+    position: relative;
+top:12px;
+    left:40px;
+   
+}
+.para1{
+    font-size: 6px;
+    position: relative;
+    left:30px;
+}
+
+
+.subhd2{
+    font-weight: bold;
+   font-size: 12px;
+    color:black;
+    position: relative;
+    bottom: 34px;
+    left:300px;
+}
+    
+
+.para2{
+    font-size: 6px;
+    position: relative;
+    bottom: 44px;
+    left:284px;
+}
+
+
+.subhd3{
+    font-weight: bold;
+   font-size: 14px;
+    color:black;
+    position: relative;
+    bottom: 44px;
+    left:180px;
+}
+.para3{
+    font-size: 6px;
+    position: relative;
+    bottom: 58px;
+    left:159px;
+}
+
+
+.block2{
+    background-color: cornflowerblue;
+    width:40%;
+    height:90px;
+    position: relative;
+    bottom: 288px;
+    left:590px;
+}
+h6{
+    font-size: 10px;
+    position: relative;
+    bottom: 220px;
+    left:600px;
+}
+
+
+.subhd4{
+    font-weight: bold;
+    font-size: 12px;
+    color:black;
+    position: relative;
+   top:10px;
+    left:40px;
+}
+.para4{
+    font-size: 6px;
+    position: relative;
+    left:30px;
+}
+
+
+.subhd5{
+    font-weight: bold;
+   font-size: 12px;
+    color:black;
+    position: relative;
+    bottom: 34px;
+    left:300px;
+}
+    
+
+.para5{
+    font-size: 6px;
+    position: relative;
+    bottom: 44px;
+    left:290px;
+}
+
+
+.subhd6{
+    font-weight: bold;
+   font-size: 14px;
+    color:black;
+    position: relative;
+    bottom: 32px;
+    left:180px;
+}
+.para6{
+    font-size: 4px;
+    position: relative;
+    bottom: 41px;
+    left:155px;
+}
+.btn1{
+    background-color: coral;
+    border:0px;
+    color:white;
+    border-radius: 3px;
+   position: relative;
+   left: 170px;
+   bottom: 35px;
+   font-size: 7px;
+   padding: 6px;
+}
+.leave{
+    position: relative;
+    bottom: 270px;
+    
+}
+
+.block3{
+    background-color: cornflowerblue;
+    width:40%;
+    height:80px;
+    position: relative;
+    bottom: 620px;
+    left:590px;
+}
+
+.subhd6{
+    font-weight: bold;
+    font-size: 12px;
+    color:black;
+    position: relative;
+   top:10px;
+    left:30px;
+}
+.para6{
+    font-size: 6px;
+    position: relative;
+   top:0px;
+    left:34px;
+}
+
+
+.subhd7{
+    font-weight: bold;
+    font-size: 12px;
+    color:black;
+    position: relative;
+  bottom: 35px;
+    left:290px;
+}
+.para7{
+    font-size: 6px;
+    position: relative;
+    bottom: 47px;
+    left:298px;
+}
+.btn2{
+    background-color: coral;
+    border:0px;
+    color:white;
+    border-radius: 3px;
+   position: relative;
+   left: 170px;
+   bottom: 34px;
+   font-size: 7px;
+   padding: 6px;
+}
+.allow{
+    position: relative;
+    left: 590px;
+    bottom: 600px;
+}
+.up{
+    position: relative;
+    
+    bottom: 614px;
+}
+.block4{
+    background-color: cornflowerblue ;
+    height:40px;
+    width: 40%;
+    position: relative;
+    left:590px;
+    bottom: 625px;
+}
+.subhd8{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+   padding-top: 12px;
+}
+
+
